@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <ruleset name="custom-ruleset">
-  <description>Custom set of preferred, sane rules</description>
+  <description>Custom set of preferred, sane rules are working</description>
   <!-- This ruleset excludes things already covered by checkstyle. -->
 
   <rule ref="rulesets/java/design.xml">
