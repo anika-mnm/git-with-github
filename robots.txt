@@ -1,6 +1,5 @@
-#Robots help men
-#we can take all help from robot
 # www.robotstxt.org/
+# Robots are helpful
 
 # Allow crawling of all content
 User-agent: *
